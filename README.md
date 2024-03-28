@@ -1,2 +1,2 @@
 # Dev
-Tienda Virtual -.-
+Proyecto de desarollo de software en Certus - Tienda Virtual -.-
